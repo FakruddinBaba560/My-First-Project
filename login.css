@@ -21,9 +21,9 @@ body{
     border-radius: 12px;
 }
  a,.login  button {
-    height: 6vh;
+    height: 36px;
     background-color: rgb(8, 0, 255);
-    width: 6vw;
+    width: 100px;
     position: relative;
     text-decoration: none;
    margin: 15px;
